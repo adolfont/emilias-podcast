@@ -5,6 +5,7 @@
 
 Visite http://anchor.fm/emilias-podcast
 
+https://help.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site
 
 ### Jekyll Themes
 
